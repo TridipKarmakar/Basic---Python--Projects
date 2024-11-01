@@ -75,5 +75,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 **Your Name**  
-GitHub: [@yTridip Karmakar](https://github.com/TridipKarmakar)  
+GitHub: [@Tridip Karmakar](https://github.com/tridipKarmakar)  
 LinkedIn: [@Tridip Karmakar](https://www.linkedin.com/in/tridipkarmakar)  
