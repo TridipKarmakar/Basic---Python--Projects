@@ -75,8 +75,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 **Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)  
-LinkedIn: [@yourlinkedinprofile](https://www.linkedin.com/in/yourlinkedinprofile)  
+GitHub: [@yourusername](https://github.com/TridipKarmakar)  
+LinkedIn: [@yourlinkedinprofile](https://www.linkedin.com/in/tridipkarmakar)  
 
 ---
 
