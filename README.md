@@ -25,7 +25,7 @@ The **Contact Book Application** is a Python-based project that allows users to 
 - **Add, View, Update, and Delete Contacts**: Basic CRUD operations to manage contact details.
 - **Simple and Clean Interface**: Starting with a command-line interface, with plans to transition to a GUI or web-based interface.
 - **Version Control**: Maintained with Git for production-quality version management.
-- **Showcased on LinkedIn**: Check out the project’s progress and functionality on my [LinkedIn profile](https://www.linkedin.com/in/yourlinkedinprofile).
+- **Showcased on LinkedIn**: Check out the project’s progress and functionality on my [LinkedIn profile](https://www.linkedin.com/in/tridipkarmakar).
 
 ### Technologies Used
 - **Python**: Core programming language
