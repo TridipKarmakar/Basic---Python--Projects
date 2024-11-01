@@ -75,9 +75,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 **Your Name**  
-GitHub: [@yourusername](https://github.com/TridipKarmakar)  
-LinkedIn: [@yourlinkedinprofile](https://www.linkedin.com/in/tridipkarmakar)  
-
----
-
-Just update your GitHub username, LinkedIn profile, and any other placeholders as needed. This should work great for your Contact Book project!
+GitHub: [@yTridip Karmakar](https://github.com/TridipKarmakar)  
+LinkedIn: [@Tridip Karmakar](https://www.linkedin.com/in/tridipkarmakar)  
